@@ -3,7 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('FAOSTAT.csv')
 
-st.write("Fertilizers ashboard")
+st.write("Fertilizers Dashboard")
 
 
 
