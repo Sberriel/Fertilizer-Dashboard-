@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-
-df = pd.read_csv("df = pd.read_csv("/home/user/projects/fertilizer-dashboard-/FAOSTAT.csv")
+df = pd.read_csv("/home/user/projects/fertilizer-dashboard-/FAOSTAT.csv")
 
 
 st.markdown(
