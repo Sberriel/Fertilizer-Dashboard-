@@ -23,6 +23,6 @@ st.title(
 )
 
 
-st.markdown('<h1 class="custom-title">Fertilizers Dashboard</h1>', unsafe_allow_html=True)
+st.title('<h1 class="custom-title">Fertilizers Dashboard</h1>', unsafe_allow_html=True)
 
 
