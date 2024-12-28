@@ -5,7 +5,10 @@ import pandas as pd
 df = pd.read_csv("FAOSTAT.csv")
 
 
-st.markdown(
+st.title("Fertilizers Dashboard")
+
+
+st.title(
     """
     <style>
     .custom-title {
