@@ -3,7 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('FAOSTAT.csv')
 
-st.markdown("Fertilizers Dashboard")
+st.markdown("Fertilizers ashboard")
 
 
 st.markdown(
@@ -19,3 +19,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
