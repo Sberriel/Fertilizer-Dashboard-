@@ -3,7 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('FAOSTAT_11.csv')
 
-st.write ("Fertilizers Dashboard")
+st.markdown ("Fertilizers Dashboard")
 
 st.markdown(
     """
