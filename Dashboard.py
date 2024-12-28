@@ -9,7 +9,7 @@ st.markdown(
     """
     <style>
     .custom-title {
-        font-size: 120px;       
+        font-size: 85px;       
         color: ##0FA3B1;        
         font-family: Trebichet MS, sans-serif; 
         text-align: left;     
